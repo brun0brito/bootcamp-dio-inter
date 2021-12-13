@@ -1,2 +1,2 @@
-# Desafio de Projeto sobre Git/GitHub da Dio
-Respositório criado para o desafio de Projeto.
+# Bootecamp Inter Frontend Developer na dio
+Respositório criado para os projetos do bootcamp.
